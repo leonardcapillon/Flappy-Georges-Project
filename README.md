@@ -7,7 +7,7 @@ Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut ce fasse av
 Ressources :
 Python
 https://github.com/timowilken/flappy-bird-pygame
-*Logiciel VVVV (Environnement virtuel)*
+Logiciel VVVV (Environnement virtuel)
 
 Matériel :
 Ordinateur et micro
