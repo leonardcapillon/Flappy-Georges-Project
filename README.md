@@ -1,12 +1,13 @@
-# Fractal-Sound-Project
+# Flappy-Georges-Project
 Projet de ISN année de Terminale S
 
 Projet :
-Créer un code afin de faire réagir une fractale avec l'intensité et la hauteur d'un son, à l'aide d'un environnement virtuel.
+Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut ce fasse avec la voix.
 
 Ressources :
-Calcul de Fractal Mandelbroot (Fractale utilisée)
-Logiciel VVVV (Environnement virtuel)
+Python
+https://github.com/timowilken/flappy-bird-pygame
+*Logiciel VVVV (Environnement virtuel)*
 
 Matériel :
 Ordinateur et micro
