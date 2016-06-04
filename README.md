@@ -7,9 +7,8 @@ Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut ce fasse av
 Ressources :
 Python
 https://github.com/timowilken/flappy-bird-pygame
-Logiciel VVVV (Environnement virtuel)
 
 Matériel :
 Ordinateur et micro
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Fractal Sound Project</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/leonardcapillon/Fractal-Sound-Project/" property="cc:attributionName" rel="cc:attributionURL">Capillon, L'Huillier et Walter</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Projet Flappy Georges</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/leonardcapillon/Flappy-Georges-Project" property="cc:attributionName" rel="cc:attributionURL">Capillon, L'Huillier, Walter</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.<br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/TimoWilken/flappy-bird-pygame" rel="dct:source">https://github.com/TimoWilken/flappy-bird-pygame</a>.
