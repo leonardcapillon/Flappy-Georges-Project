@@ -5,6 +5,9 @@ Projet de ISN année de Terminale S
 Projet : Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut ce fasse avec la voix.
 
 
+ASSURER-VOUS D'EXTRAIRE LE FICHIER images.rar DANS UN DOSSIER APPELE "images"
+
+
 Ressources :
 - Jeu "Flappy Bird" écrit en python avec pygame : https://github.com/timowilken/flappy-bird-pygame
 
