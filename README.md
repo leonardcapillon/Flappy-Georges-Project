@@ -2,10 +2,10 @@
 Projet de ISN année de Terminale S
 
 
-Projet : Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut ce fasse avec la voix.
+Projet : Reprendre un jeu de Flappy Bird en le modifiant de sorte que le saut se fasse avec la voix.
 
 
-ASSURER-VOUS D'EXTRAIRE LE FICHIER images.rar DANS UN DOSSIER APPELE "images"
+ASSUREZ-VOUS D'EXTRAIRE LE FICHIER images.rar DANS UN DOSSIER APPELE "images"
 
 
 Ressources :
